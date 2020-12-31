@@ -1,0 +1,9 @@
+{
+  "author": "Anuke"
+  "description": "A jar mod."
+  "displayName": "Example Java Mod"
+  "main": "example.ExampleJavaMod"
+  "minGameVersion": 105
+  "name": "example-java-mod"
+  "version": 1.0
+}
